@@ -1,0 +1,7 @@
+-"Structa forwarding test"
+=bg:"#000000"
+=fg:"#ffffff"
+=align:CENTER
+
+{$1"Structa Page"
+[$1"you should be on localhost:8080/test/test right now"

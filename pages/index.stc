@@ -1,0 +1,10 @@
+-"Structa Default Page"
+=bg:"#000000"
+=fg:"#ffffff"
+=align:CENTER
+
+{$1"Structa Page"
+[$1"Put your own code here"
+($1[test/test]"click me"
+
+<$1[structa.png]>
